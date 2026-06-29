@@ -1,0 +1,6 @@
+google-generativeai
+streamlit
+plotly
+python-dotenv
+tiktoken
+pandas
